@@ -81,22 +81,22 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Cypherdon](https://github.com/HarshwardhanBhaskar)
+### [Cypherdon](https://github.com/HarshwardhanBhaskar/Cypherdon)
 **Polyglot AI-Powered Job Automation Platform**
 
 `FastAPI` `Spring Boot` `Next.js 15` `GPT-4o` `Gemini` `PostgreSQL`
 
 - Polyglot microservices: FastAPI AI engine + Spring Boot gateway + Next.js frontend
 - AI resume ATS scorer & cold email generator with semantic skill matching
-- Self-healing URL integrity engine with dual-layer auth (Supabase JWT + X-Internal-Secret)
+- Self-healing URL integrity engine with dual-layer auth
 - Telegram Bot companion for mobile campaign monitoring
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [NeuroDocs](https://github.com/HarshwardhanBhaskar)
+### [NeuroDocs](https://github.com/HarshwardhanBhaskar/neurodocs)
 **AI Document Intelligence SaaS**
 
 `Next.js` `FastAPI` `Supabase` `OpenRouter API`
@@ -109,9 +109,9 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Kirmada](https://github.com/HarshwardhanBhaskar)
+### [Kirmada](https://github.com/HarshwardhanBhaskar/kirmadagaming)
 **Real-Time Multiplayer Gaming Platform**
 
 `React` `TypeScript` `Supabase Realtime` `PostgreSQL` `TailwindCSS`
@@ -121,9 +121,9 @@
 - Real-time balance tracking via Supabase Realtime & Edge Functions
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [AI Employee Monitoring](https://github.com/HarshwardhanBhaskar)
+### [AI Employee Monitoring](https://github.com/HarshwardhanBhaskar/EmployeeMonitoring)
 **Industrial Computer Vision System** — *Deployed at JSPL*
 
 `Python` `OpenCV` `DeepFace` `MediaPipe` `Twilio`
@@ -131,7 +131,6 @@
 - Real-time face recognition at 25-30 FPS for automated employee tracking
 - Twilio SMS intruder alerts within 5 seconds, 90% duplicate reduction
 - Automated entry/exit logging eliminating manual attendance processes
-- Validated across 100+ detection events for production reliability
 
 </td>
 </tr>
@@ -142,12 +141,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" alt="GitHub Stats" height="170">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages" height="170">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&ring_color=2563EB">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" height="170">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=1F2937">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" height="170">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak" width="520">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=1F2937&dates=6B7280&currStreakNum=1F2937&sideNums=1F2937">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520">
+  </picture>
 </p>
 
 <br>
