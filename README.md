@@ -142,22 +142,22 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&ring_color=2563EB">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&ring_color=2563EB">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" height="170">
   </picture>&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=1F2937">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9" height="170">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=1F2937&dates=6B7280&currStreakNum=1F2937&sideNums=1F2937">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=0d1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=ffffff&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=1F2937&dates=6B7280&currStreakNum=1F2937&sideNums=1F2937">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanBhaskar&hide_border=true&background=0d1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520">
   </picture>
 </p>
 
