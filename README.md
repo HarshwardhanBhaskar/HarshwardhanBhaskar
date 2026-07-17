@@ -142,14 +142,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&ring_color=2563EB">
-    <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&ring_color=2563EB&cache_seconds=1800">
+    <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=HarshwardhanBhaskar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE&cache_seconds=1800" height="170">
   </picture>&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937">
-    <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937&cache_seconds=1800">
+    <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshwardhanBhaskar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=C9D1D9&cache_seconds=1800" height="170">
   </picture>
 </p>
 
